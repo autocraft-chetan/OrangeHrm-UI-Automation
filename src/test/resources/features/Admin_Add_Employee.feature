@@ -19,3 +19,5 @@ Feature: Verify the PIM module to Add new Employee
     And I should be navigated to the Employee List page
     Then the personal details of employee list should display the details entered during the creation
 
+    Scenario:
+
